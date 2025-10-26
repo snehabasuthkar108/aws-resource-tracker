@@ -25,5 +25,5 @@ Before running this script, ensure:
 1. Clone the repository or copy the script file.
 2. Make it executable:
    ```bash
-   chmod +x aws_resource_report.sh
+   chmod +x resource_tracker.sh
 
